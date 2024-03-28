@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Gonchigar
 - 👀 I’m interested in Cloud, Architecture, ML
-- 🌱 I’m currently learning Java and python 3
+- 🌱 I’m currently learning AI (LLM Training).
 - 💞️ I’m looking to collaborate on GCP/AWS/AZure ML, Architecture
 - 📫 How to reach me gonchigars@gmail.com
 
